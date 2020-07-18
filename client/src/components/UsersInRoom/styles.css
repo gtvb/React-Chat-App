@@ -1,0 +1,15 @@
+.users-container {
+  width: 20%;
+  height: 100%;
+  display: flex;
+  align-self: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  padding: 16px;
+  font-family: sans-serif;
+}
+
+.list-item {
+  list-style: none;
+  margin: 8px 4px;
+}

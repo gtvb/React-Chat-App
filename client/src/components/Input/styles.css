@@ -1,0 +1,25 @@
+.ui-container {
+  width: 80%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.send-input {
+  width: 90%;
+  height: 100%;
+  padding: 10px;
+  border: 1px solid rgb(228, 226, 226);
+  background-color: #fff;
+}
+
+.send-btn {
+  width: 10%;
+  height: 100%;
+  background: royalblue;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+}
