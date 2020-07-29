@@ -4,6 +4,8 @@ A chat application made with ReactJS and socket.io. User can join rooms and star
 
 
 
+
+
 #  Installation :computer:
 Make sure your have Node.js installed on your computer.
 
