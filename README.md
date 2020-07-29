@@ -2,8 +2,9 @@
 
 A chat application made with ReactJS and socket.io. User can join rooms and start chatting!!
 
-
-
+<div>
+  <img src='client/images/App.jpg' />
+</div>
 
 
 #  Installation :computer:
